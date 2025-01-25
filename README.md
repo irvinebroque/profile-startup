@@ -1,3 +1,7 @@
+Shout out @penalosa for https://github.com/penalosa/startup-time-measure which shows this with Remix.
+
+This is just ^ that but with just a Worker.
+
 Run:
 
 - `cd profile-startup/worker-you-want-to-profile-startup-time-of`
